@@ -5,7 +5,7 @@ Today’s telecommunication is heavily saturated with spam and unwanted offers, 
 
 Continuously sending emails and leaving voicemails is a dated approach to receiving a customer response. That’s why businesses are turning to text for a fresh way to make new connections, improve existing relationships, and provide important information. 
 
-We have compiled our top 5 reasons text messaging positively impacts customer engagement, so your business can begin reaping the benefits.
+We have compiled our top 5 reasons <a href="https://blog.banter.io/benefits-of-texting/">text messaging<a/> positively impacts customer engagement, so your business can begin reaping the benefits.
 
 Strengthen marketing
 Let’s be honest. Most emails are easily overlooked, forgotten, and ignored. It’s becoming increasingly difficult to stand out in a jam-packed inbox, causing many businesses to miss opportunities. That’s why more and more businesses are seeking the benefits of texting, as it offers a competitive advantage when sharing information. 
